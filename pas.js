@@ -1,3 +1,3 @@
-const pas = "slez"
+const pas = "shirin"
 
 module.exports = { pas }
